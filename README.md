@@ -1,8 +1,7 @@
 # Multiplayer Shooter Game
 
 ![Multiplayer Shooter Game](https://img.shields.io/badge/Game-Multiplayer_Shooter-brightgreen)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3dcf7a88-c554-48e0-b040-301f1cdda6f6/deploy-status)](https://app.netlify.com/sites/defense-shooter/deploys)
-[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://defense-shooter.netlify.app/)
+[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](http://localhost:3000/)
 
 This web application is designed for a multiplayer shooter game using HTML5/Canvas. I created and implemented features such as shooting mechanics, random spawn, usernames, leaderboard. Immerse yourself in the PvP action by shooting with precision using your mouse.
 
@@ -44,7 +43,7 @@ npm install
 npm start
 ```
 
-4. The server should be running on the specified port (default is 80).
+4. The server should be running on the specified port (default is 3000).
 
 ## Gif
 
