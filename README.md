@@ -1,7 +1,9 @@
 # Multiplayer Shooter Game
 
 ![Multiplayer Shooter Game](https://img.shields.io/badge/Game-Multiplayer_Shooter-brightgreen)
-[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](http://localhost:3000/)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome&logoColor=white)](http://localhost:3000/)
 
 This web application is designed for a multiplayer shooter game using HTML5/Canvas. I created and implemented features such as shooting mechanics, player movement, random spawn, usernames, leaderboard. Immerse yourself in the PvP action by shooting with precision using your mouse.
 
